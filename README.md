@@ -211,6 +211,7 @@ font-size: large;
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94155183/154064579-de732efa-f132-49e2-aedb-cc0ab1393baa.png)
 
 
 
