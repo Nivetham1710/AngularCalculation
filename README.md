@@ -203,7 +203,7 @@ font-size: large;
       <Cuboid-Volume class="formelement"></Cuboid-Volume>
   </div>
   <div class="footer">
-    &copy; Copyright. All Rights Reserved | Developed by Kaushika.A
+    &copy; Copyright. All Rights Reserved | Developed by Nivetha.M
   </div>
   </div>
 
@@ -212,7 +212,8 @@ font-size: large;
 
 ## OUTPUT:
 ```
-![image](https://user-images.githubusercontent.com/94155183/154064902-849c8f8f-17f0-4b10-b06c-9c09e7da98e8.png)
+![image](https://user-images.githubusercontent.com/94155183/154065320-982be3a5-453a-41ec-aca6-508ed4aaad30.png)
+
 ```
 
 
